@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recognizer-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Пример конфигурации ML Kit Digital Ink -->
+</recognizer-config>

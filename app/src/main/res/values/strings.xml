@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyPlanner</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="save">Сохранить</string>
+    <string name="event_title_hint">Название события</string>
+    <string name="duration_hint">Длительность (мин)</string>
+    <string name="reminder_hint">Напомнить за (мин)</string>
+</resources>

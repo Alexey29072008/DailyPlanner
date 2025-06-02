@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/eventTitleInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Название события" />
+
+        <EditText
+            android:id="@+id/durationInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Длительность (минуты)"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/reminderInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Напомнить за (минуты)"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/dateButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Выбрать дату" />
+
+        <Button
+            android:id="@+id/timeButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Выбрать время" />
+
+        <Button
+            android:id="@+id/saveEventButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Сохранить" />
+
+    </LinearLayout>
+</ScrollView>

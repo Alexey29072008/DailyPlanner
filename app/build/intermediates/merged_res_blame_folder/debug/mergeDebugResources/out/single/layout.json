@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-mergeDebugResources-3:\\layout\\event_item.xml",
+        "source": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-main-6:\\layout\\event_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-mergeDebugResources-3:\\layout\\activity_events_list.xml",
+        "source": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-main-6:\\layout\\activity_events_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-mergeDebugResources-3:\\layout\\activity_create_event.xml",
+        "source": "C:\\Users\\klmv2\\.gradle\\daemon\\8.11.1\\com.example.dailyplanner.app-main-6:\\layout\\activity_create_event.xml"
+    },
+    {
+        "merged": "com.example.dailyplanner.app-mergeDebugResources-3:/layout/activity_events_list.xml",
+        "source": "com.example.dailyplanner.app-main-6:/layout/activity_events_list.xml"
+    }
+]
